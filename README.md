@@ -12,7 +12,7 @@
 
 <table align="center">
   <tr>
-    <th colspan="4">Front end</th>
+    <th colspan="8">Front end</th>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -46,9 +46,9 @@
   </tr>
 
   <tr>
-    <th colspan="4">Mobile</th>
+    <th colspan="8">Mobile</th>
   </tr>
-  <tr>
+  <tr align="center" >
      <td align="center"  width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
       <br>Typescript
@@ -67,7 +67,7 @@
     </td>
   </tr>
   <tr>
-    <th colspan="4">Back end</th>
+    <th colspan="8">Back end</th>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -86,8 +86,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
       <br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
       <br>PostgreSQL
@@ -102,7 +100,7 @@
       </td>
   </tr>
   <tr>
-    <th colspan="4">Devops</th>
+    <th colspan="8">Devops</th>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -123,7 +121,7 @@
     </td>
   </tr>
    <tr>
-    <th colspan="4">Others</th>
+    <th colspan="8">Others</th>
   </tr>
   <tr>
     <td align="center"  width="96">
@@ -142,8 +140,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"  alt="jira" width="40" height="40"/>
       <br>Jira
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"alt="trello" width="40" height="40"/>
       <br>Trello
