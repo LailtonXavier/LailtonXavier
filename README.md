@@ -1,5 +1,9 @@
 # Lailton Xavier
 
+<div>
+  <img src="https://res.cloudinary.com/dup3eggmc/image/upload/v1679585805/Full_mwugzz.gif" alt="lailton" />
+</div>
+
 <div align="center">
   <a href="https://github.com/LailtonXavier">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LailtonXavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
