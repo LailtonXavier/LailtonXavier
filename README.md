@@ -31,8 +31,6 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/> 
       <br>Tailwind
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/> 
       <br>Typescript
