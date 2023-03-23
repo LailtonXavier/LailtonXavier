@@ -153,7 +153,7 @@
     </td>
     <td align="center" width="96">
     <img src="https://e3ba6e8732e83984.cdn.gocache.net/uploads/image/file/479128/regular_runrun2-360-1.jpeg" alt="runrun it" width="40" height="40"/>
-      <br>Runrun it
+      <br>RunrunIt
     </td>
     <td align="center" width="96">
       <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256745/file-type-light-prettier-icon-md.png" alt="prettier" width="40" height="40" />
