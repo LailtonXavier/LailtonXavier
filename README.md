@@ -4,8 +4,7 @@
   <a href="https://github.com/LailtonXavier">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=LailtonXavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LailtonXavier&layout=compact&langs_count=7&theme=dracula" />
-</div>
-  
+</div>  
 <br>
 > Tools and technologies that I have worked with and am interested in
 <br>
