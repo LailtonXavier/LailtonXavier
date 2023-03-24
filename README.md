@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <img src="https://res.cloudinary.com/dup3eggmc/image/upload/v1679664971/Full_4_bffruu.gif" alt="lailton" />
+  <img src="https://res.cloudinary.com/dup3eggmc/image/upload/v1679665161/Full_5_w8errj.gif" alt="lailton" />
 </div>
 
 <div align="center">
