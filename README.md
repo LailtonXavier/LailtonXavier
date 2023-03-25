@@ -32,11 +32,11 @@
       <br>React js
     </td>
     <td align="center"  width="96">
-     <img src="https://imgix.prensa.li/https%3A%2F%2Fstatic.prensa.li%2Fstories%2Fc2%2F66%2Ff1%2F74%2Fc266f174-8f7a-4472-bbf7-465ecbf786cb.png?fit=crop&max-h=450&mh=450&w=800&s=eb2bf89a26705c3ab104f9a12cd6c770" alt="nextjs" width="40" height="40"/> 
+     <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="nextjs" width="40" height="40"/> 
       <br>Next js
     </td>
     <td align="center"  width="96">
-     <img src="https://external-preview.redd.it/8rYenz5seM2NrfYpcR7fwovXucS3Wu-VUDhrGIn9OSA.jpg?auto=webp&s=5e68d4e7671e5438db76f350384cec34d85f737a" alt="vitejs" width="40" height="40"/> 
+     <img src="https://image.pngaaa.com/800/4915800-middle.png" alt="vitejs" width="40" height="40"/> 
       <br>Vite js
     </td>
     <td align="center"  width="96">
