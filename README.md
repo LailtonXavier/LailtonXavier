@@ -32,6 +32,14 @@
       <br>React js
     </td>
     <td align="center"  width="96">
+     <img src="https://imgix.prensa.li/https%3A%2F%2Fstatic.prensa.li%2Fstories%2Fc2%2F66%2Ff1%2F74%2Fc266f174-8f7a-4472-bbf7-465ecbf786cb.png?fit=crop&max-h=450&mh=450&w=800&s=eb2bf89a26705c3ab104f9a12cd6c770" alt="nextjs" width="40" height="40"/> 
+      <br>Next js
+    </td>
+    <td align="center"  width="96">
+     <img src="https://external-preview.redd.it/8rYenz5seM2NrfYpcR7fwovXucS3Wu-VUDhrGIn9OSA.jpg?auto=webp&s=5e68d4e7671e5438db76f350384cec34d85f737a" alt="vitejs" width="40" height="40"/> 
+      <br>Vite js
+    </td>
+    <td align="center"  width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/> 
       <br>Tailwind
     </td>
@@ -43,10 +51,12 @@
      <img src="https://res.cloudinary.com/dup3eggmc/image/upload/v1679582282/Captura_de_tela_de_2023-03-23_11-36-56_pug8hs.png" alt="Styled-components" width="50" height="40"/> 
       <br>Styled-compt
     </td>
+   <tr>
     <td align="center"  width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
       <br>Bootstrap
     </td>
+    </tr>
   </tr>
 
   <tr>
