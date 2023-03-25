@@ -40,6 +40,10 @@
       <br>Vite js
     </td>
     <td align="center"  width="96">
+     <img src="https://res.cloudinary.com/dup3eggmc/image/upload/v1679710198/Redux_sxtoi2.gif" alt="redux" width="40" height="40"/> 
+      <br>Redux js
+    </td>
+    <td align="center"  width="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/> 
       <br>Tailwind
     </td>
@@ -66,10 +70,6 @@
      <td align="center"  width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
       <br>Typescript
-    </td>
-    <td align="center"  width="96">
-      <img src="https://cdn-icons-png.flaticon.com/512/3379/3379166.png" alt="react" width="40" height="40"/> 
-      <br>React Native
     </td>
     <td align="center"  width="96">
       <img src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s" alt="expo" width="40" height="40"/> 
